@@ -1,4 +1,4 @@
-# IDEA Hadoop 开发项目构建指引
+# IDEA Hadoop 开发环境构建
 
 [TOC]
 
