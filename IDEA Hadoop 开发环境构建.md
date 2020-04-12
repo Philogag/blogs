@@ -4,7 +4,7 @@
 
 ## 1. 新建项目
 
-![image-20200402095700080](https://github.com/Philogag/blogs/blob/master/imgs/image-20200402095700080.png)
+![image-20200402095700080](/imgs/image-20200402095700080.png)
 
 ![image-20200402095850030](/imgs/image-20200402095850030.png)
 
